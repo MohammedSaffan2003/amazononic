@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    font-style: Verdana;
+    color: rgb(16, 123, 237);
+}
+*{
+    background-color: black;
+    color: whitesmoke;
+}
+
+li{
+    list-style: none;
+}
+button, a{
+    background-color: rgb(246, 238, 238);
+    color: rgb(16, 16, 16);
+    font-weight: bold !important;
+    font-size: 30px;
+    text-decoration: none;s
+}
+p{
+    font-size: 23px;
+    color: hsl(from rgb(37, 37, 154) h s l);
+}
